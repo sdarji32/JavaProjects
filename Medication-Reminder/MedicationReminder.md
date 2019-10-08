@@ -3,8 +3,10 @@ This is homepage for the mdication reminder app I made in java that gives a GUI 
 the time and data to provide reminder insights for the user.
 
 ## Objective
+The objective of this project is to give a interface for the user to log which medications they are currently taking at the time. They will also be able to store the daily time or schedule for the given medication.
 
 ## Market Research
+
 ### My PillBox: 
 - This android app has the ability for the user to set the name, amount and type of medication that they have to take. 
 - Also the app allows any note from the doctor that the user should follow when taking the medication. 
